@@ -1,0 +1,11 @@
+1- Open the main page https://soft.reelly.io      TEST PASSED
+2- Log in to the page                             TEST PASSED
+3- Click on “market” at the left side menu        TEST PASSED
+4- Verify the right page opens                    TEST PASSED
+5- Go to the final page using pagination          TEST PASSED
+6- Go to the first page using pagination          TEST PASSED
+
+NOTE: While user was able to navigate through the 7 different pages on the “market” page,
+the user needs to click on the right or left arrow next to the page counter at the bottom of each page.
+There is no way to skip pages and instantly go from, for example, page 1 to page 7.
+The user must click on the arrow to advance one page at a time.
